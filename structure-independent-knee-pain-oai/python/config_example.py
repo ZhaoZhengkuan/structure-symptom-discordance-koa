@@ -1,0 +1,5 @@
+"""Optional local path configuration; copy values into environment variables."""
+PROJECT_ROOT = "."
+OAI_ZIP = "data/OAICompleteData_ASCII.zip"
+NHANES_DIR = "data/nhanes_selected"
+OUTPUT_DIR = "outputs"
